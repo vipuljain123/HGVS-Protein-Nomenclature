@@ -1,4 +1,4 @@
-#This script wil convert three letter code amino acid variants to single letter code amino acid variants.
+# This script created by Vipul Todarwal (Jain) to convert HGVS three letter code amino acid variants to single letter code amino acid variants.
 
 #	Example input		Example output
 #	p.Gly410Arg	=>	p.G410R
